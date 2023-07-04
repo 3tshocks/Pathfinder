@@ -391,6 +391,7 @@ section{
     padding: .2rem;
     text-align: center;
     border-radius: .5rem;
+    border-top: none;
     border: var(--border);
     box-shadow: var(--box-shadow)
 }
