@@ -1,0 +1,6 @@
+Add active class to header and navbar items on scroll for java script,
+add active class code on for css
+
+Change the pricing into folder like display.
+
+Make the team's section  in a design that is circular and their images are blury and only activate once you hover over them or click on themand the information shows on the righthand side.
