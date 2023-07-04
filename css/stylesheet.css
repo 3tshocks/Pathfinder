@@ -391,8 +391,9 @@ section{
     padding: .2rem;
     text-align: center;
     border-radius: .5rem;
-    border-top: none;
-    border: var(--border);
+    border-right: 0.1rem solid rgba(0, 0, 0, 0.3);
+    border-bottom: 0.1rem solid rgba(0, 0, 0, 0.3);
+    border-left: 0.1rem solid rgba(0, 0, 0, 0.3);
     box-shadow: var(--box-shadow)
 }
 
